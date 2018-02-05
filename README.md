@@ -22,5 +22,17 @@ Stop
 Stamps time and date at end of the task
 
 
+Task Timer method
+------
+This takes the start and stop time marks
+
+  & Calculates the total time for task
+  
+  
+Description Command
+----------
+Passes the task name and task description
+
+Logs the description 
 
 
