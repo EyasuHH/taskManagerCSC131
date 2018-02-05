@@ -36,3 +36,8 @@ Passes the task name and task description
 Logs the description 
 
 
+Log class
+-------
+
+* Collects the date and time of task
+* Shows name of task & commands entered
