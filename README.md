@@ -14,6 +14,13 @@ Calls four different methods
 Start
 --------
 Start method formats the Date of the task
+
 Marks the start of the timer
+
+Stop 
+-------
+Stamps time and date at end of the task
+
+
 
 
