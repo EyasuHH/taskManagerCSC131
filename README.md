@@ -13,7 +13,8 @@ Calls four different methods
 
 Start
 --------
-**Receive & pass two args**
+   **Receive & pass two args**
+
 Start method formats the Date of the task
 
 Marks the start of the timer
