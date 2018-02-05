@@ -6,3 +6,7 @@ Main Method
 
 Call four different methods
 -------------
+* start command
+* stop command
+* describe command
+* summary command
