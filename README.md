@@ -34,6 +34,11 @@ This takes the start and stop time marks
 
   & Calculates the total time for task
   
+T-shirt Size Void
+----------
+***this command adds tshirt sizes to the summary***
+Three args are passed to the void
+S, M, L, XL
   
 Description Command
 ----------
@@ -42,6 +47,8 @@ Description Command
 Passes the task name and task description
 
 Logs the description 
+
+
 
 
 Log class
